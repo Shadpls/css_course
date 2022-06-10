@@ -1,1 +1,3 @@
-# css_course
+# CSS Course
+
+# CSS Lesson work and Projects
